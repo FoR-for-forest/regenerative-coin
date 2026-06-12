@@ -17,7 +17,9 @@ description: TEAM & CONTRIBUTORS
 
 #### デザイン：
 
-**UIUX** 西原英里 / Eri Nishihara
+**UI/UXデザイン**：西原英里\
+**リーガルデザイン：**&#x897F;村啓（tou法律事務所）\
+**トークンデザインアドバイス** : Beacon labs
 
 ***
 
