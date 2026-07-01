@@ -19,7 +19,11 @@ description: TEAM & CONTRIBUTORS
 
 **UI/UXデザイン**：西原英里\
 **リーガルデザイン：**&#x897F;村啓（tou法律事務所）\
-**トークンデザインアドバイス** : Beacon labs
+**トークンデザイン** : Beacon labs
+
+#### 協力：
+
+**アドバイザー** : [Fracton Ventures Inc.](https://fracton.ventures/)
 
 ***
 
